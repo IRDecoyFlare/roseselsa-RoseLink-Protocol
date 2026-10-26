@@ -1,4 +1,4 @@
-# roseselsa RoseLink Protocol / roseselsa RoseLink 通信协议
+# roseselsa RoseLink Protocol / 弱水时砂RoseLink 通信协议
 
 Reverse-engineered communication protocol reference for **roseselsa** devices, based on **Windows RoseLink 3.8.2+5409**.
 
