@@ -1,8 +1,8 @@
-# RoseLink Protocol / RoseLink 通信协议
+# roseselsa RoseLink Protocol / roseselsa RoseLink 通信协议
 
-Reverse-engineered communication protocol reference for **Windows RoseLink 3.8.2+5409**.
+Reverse-engineered communication protocol reference for **roseselsa** devices, based on **Windows RoseLink 3.8.2+5409**.
 
-针对 **Windows RoseLink 3.8.2+5409** 逆向整理的通信协议参考。
+针对 **roseselsa** 厂商设备，基于 **Windows RoseLink 3.8.2+5409** 逆向整理的通信协议参考。
 
 ## Documentation / 协议文档
 
@@ -44,6 +44,6 @@ Please open an issue or pull request with the model and chip variant, firmware a
 
 欢迎通过 Issue 或 Pull Request 补充实测与勘误。请提供型号及芯片变体、固件与应用版本、传输方式、原始收发字节、预期与实际行为和证据等级；分享抓包前请隐去蓝牙地址、序列号等个人标识。
 
-This is an independent reverse-engineering reference, not an official manufacturer specification. See the protocol documents for implementation limits and unconfirmed areas.
+This is an independent reverse-engineering reference, not an official roseselsa specification. See the protocol documents for implementation limits and unconfirmed areas.
 
-本项目为独立逆向工程参考，并非厂商官方协议规范。实现边界与未确认部分请参阅协议正文。
+本项目为独立逆向工程参考，并非 roseselsa 官方协议规范。实现边界与未确认部分请参阅协议正文。
